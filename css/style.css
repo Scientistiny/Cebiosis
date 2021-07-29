@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: #eee;
+  color: rgb(209, 86, 86);
   margin-bottom: 50px;
   font-size: 24px;
 }
